@@ -1,0 +1,28 @@
+{
+    "sources": {
+        "/home/jm/web3/eth/suid/contracts/Suid.sol": {
+            "ast": {
+                "absolutePath": "/home/jm/web3/eth/suid/contracts/Suid.sol",
+                "exportedSymbols": {},
+                "id": 2,
+                "license": "MIT",
+                "nodeType": "SourceUnit",
+                "nodes": [
+                    {
+                        "id": 1,
+                        "literals": [
+                            "solidity",
+                            "^",
+                            "0.8",
+                            ".0"
+                        ],
+                        "nodeType": "PragmaDirective",
+                        "src": "32:23:0"
+                    }
+                ],
+                "src": "32:25:0"
+            },
+            "id": 0
+        }
+    }
+}
